@@ -26,6 +26,7 @@ import android.widget.TextView;
 /**
  * Displays the perceived strength of a single earthquake event based on responses from people who
  * felt the earthquake.
+ *
  */
 public class MainActivity extends AppCompatActivity {
 
